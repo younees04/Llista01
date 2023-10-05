@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: Ex08, configuración: Debug Any CPU ------
+1>  Ex08 -> C:\Users\Younes\Desktop\DAM 2\Repas programacio\Ex08\bin\Debug\Ex08.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 22:55 y tomó 00,138 segundos ==========
